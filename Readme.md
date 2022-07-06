@@ -1,5 +1,9 @@
 # Project Name
 > Lending Club Case Study
+- Apply risk analytics in banking and financial services on data that instutiuon has collected tracked as history of loans.
+- Main objective to prevent or defin the parameters by which out client can idenity a risky customer who most likely to defaults in repayment of loan such that can avoid lending money in order to save money and mittigate credit risk
+- We as a data analyst expected here to idntify the main driving vaiables using which can identy a defaulter matric form raw data after applying EDA
+- To learn and understnad how data is used to minimise the risk of losing money while lending to customers for financial  system 
 
 
 ## Table of Contents
@@ -8,7 +12,6 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
@@ -16,37 +19,26 @@
 - What is the business probem that your project is trying to solve?
 - What is the dataset that is being used?
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Used Jupyter notebook as IDE for pyton 3 
+- Used library Pandas,Numpy,Matplotlib,seaborn and plotly
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by Upgard Learning
 
 ## Contact
-Created by [@subhambansal] - feel free to contact me! er.subhambansal@gmail.com
+contributors 
+Sushma [@SushmaChandrachar] - contact sushma.kushi@gmail.com
+Subham Bansal [@subhambansal] - contact er.subhambansal@gmail.com
 
-
-<!-- Optional -->
-<!-- ## License  -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+## License
+This project is open source project available for study
