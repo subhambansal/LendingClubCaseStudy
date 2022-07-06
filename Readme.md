@@ -17,11 +17,10 @@
 - We as a data analyst expected here to identify the main driving vaiables using which can identy a defaulter matric form raw data after applying EDA
 - To learn and understand how data is used to minimise the risk of losing money while lending to customers for financial  system
 
- 
+
 > Solution Stratgy: Divided analysis in two border catogry (EDA + Analysis)
 
-#### Detailed Step
-
+### Detailed Step
 ##### Data Cleaning (Removing Null + Missiong Values + Datatype )
 ##### Univariate Analysis
 ##### Segemented Univariate Analysis
