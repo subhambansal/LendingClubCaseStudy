@@ -19,14 +19,14 @@
 
 > Solution Stratgy: Divided analysis in two border catogry (EDA + Analysis)
 
-- Detailed Step
+#### Detailed Step
 
-#### Data Cleaning (Removing Null + Missiong Values + Datatype )
-#### Univariate Analysis
-#### Segemented Univariate Analysis
-#### Bivaraiate/Multivariate Analysis
-#### Graph plots
-#### Results/Conclusion
+##### Data Cleaning (Removing Null + Missiong Values + Datatype )
+##### Univariate Analysis
+##### Segemented Univariate Analysis
+##### Bivaraiate/Multivariate Analysis
+##### Graph plots
+##### Results/Conclusion
 
 ## Conclusions
 - Conclusion 1 from the analysis
