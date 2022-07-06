@@ -1,14 +1,11 @@
 # Project Name
 > Lending Club Case Study
 
-
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-
 
 ## General Information
 > Business Problem:
@@ -17,8 +14,8 @@
 - We as a data analyst expected here to identify the main driving vaiables using which can identy a defaulter matric form raw data after applying EDA
 - To learn and understand how data is used to minimise the risk of losing money while lending to customers for financial  system
 
-
-> Solution Stratgy: Divided analysis in two border catogry (EDA + Analysis)
+> Solution Stratgy: 
+Divided analysis in two border catogry (EDA + Analysis)
 
 ### Detailed Step
 ##### Data Cleaning (Removing Null + Missiong Values + Datatype )
@@ -30,8 +27,7 @@
 
 ## Conclusions
 
-Conclusion
-- customer who apply for 36 months term most likely to pay in full so we can avoid customer ask for 60 months 
+- Customer who apply for 36 months term most likely to pay in full so we can avoid customer ask for 60 months 
 - Loan applicants who fall under grade G -are mostly going to be non-defaulters even when loan amount reuested is high
 - The applicants have annual income between 50K to 150K are more likely to be defauters when thier Loan amount requested is higher than 7K
 - Also we can notice that Borrowers whose income in 300K+ are most likely to be non defaulters even though the loan amount requested is higher, adding more value to business
@@ -44,8 +40,8 @@ Similar trend observed for debt consolidation as well
 - Interest rates grows linearly with grade from A to G.
 
 ## Technologies Used
-- Used Jupyter notebook as IDE for pyton 3 
-- Used library Pandas,Numpy,Matplotlib,seaborn and plotly
+-  Jupyter notebook as IDE for pyton 3 
+-  library - Pandas,Numpy,Matplotlib,seaborn and plotly
 
 
 ## Acknowledgements
