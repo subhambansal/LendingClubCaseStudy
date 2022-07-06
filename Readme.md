@@ -54,4 +54,8 @@ Sushma [@SushmaChandrachar] - contact sushma.kushi@gmail.com
 Subham Bansal [@subhambansal] - contact er.subhambansal@gmail.com
 
 ## License
+<<<<<<< HEAD
 This project is open source available for study
+=======
+This project is open source available for study
+>>>>>>> 86b565cd798c713a1c6f66d7191095ed2a09cd4d
