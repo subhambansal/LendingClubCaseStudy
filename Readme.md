@@ -12,11 +12,12 @@
 
 ## General Information
 > Business Problem:
-- Apply risk analytics in banking and financial services on data that instutiuon has collected tracked as history of loans.
-- Main objective to prevent or defin the parameters by which out client can idenity a risky customer who most likely to defaults in repayment of loan such that can avoid lending money in order to save money and mittigate credit risk
-- We as a data analyst expected here to idntify the main driving vaiables using which can identy a defaulter matric form raw data after applying EDA
-- To learn and understnad how data is used to minimise the risk of losing money while lending to customers for financial  system 
+- Apply risk analytics in banking and financial services on data that institution has collected tracked as history of loans.
+- Main objective to prevent or define the parameters by which out client can identity a risky customer who most likely to defaults in repayment of loan such that can avoid lending money in order to save money and mitigate credit risk
+- We as a data analyst expected here to identify the main driving vaiables using which can identy a defaulter matric form raw data after applying EDA
+- To learn and understand how data is used to minimise the risk of losing money while lending to customers for financial  system
 
+ 
 > Solution Stratgy: Divided analysis in two border catogry (EDA + Analysis)
 
 #### Detailed Step
